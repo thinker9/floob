@@ -1,2 +1,1 @@
-# floob
-Just another feeble attempt.
+Just another feeble attempt
